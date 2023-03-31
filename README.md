@@ -31,7 +31,7 @@ AutoAttack attack rate on the pre-trained ResNet-18.
 AutoAttack adversarial samples detection rate.
 
  
-#### References
+## References
 [1] F. Croce and M. Hein, "Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks," 2020. (https://github.com/fra31/auto-attack)
 
 [2] H. Zhang, Y. Yu, J. Jiao, E. Xing, L. El Ghaoui, and M. Jordan, "Theoretically principled trade-off between robustness and accuracy," 2019. (https://github.com/yaodongyu/TRADES)
