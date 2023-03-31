@@ -25,7 +25,7 @@ The dataset used is CIFAR-100.
 #### Model
 We use ResNet-18 pre-trained on CIFAR-100. The specific model structure is defined by resnet.py in the official TRADES github link [2].
 
-#### Result report
+## Result report
 ResNet-18 classification accuracy on CIFAR-100.
 AutoAttack attack rate on the pre-trained ResNet-18.
 AutoAttack adversarial samples detection rate.
